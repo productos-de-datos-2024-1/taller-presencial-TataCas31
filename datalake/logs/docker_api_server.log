@@ -1,0 +1,7 @@
+2024-04-07 03:22:30,250:INFO:Starting API server
+2024-04-07 03:22:30,325:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.0.2:5000
+2024-04-07 03:22:30,330:INFO:[33mPress CTRL+C to quit[0m
+2024-04-07 03:22:30,334:INFO: * Restarting with stat
